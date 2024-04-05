@@ -1,5 +1,5 @@
 @Library('shared-library') _
 
 
-env.COMPONENT="user"
+env.COMPONENT="payment"
 python()
